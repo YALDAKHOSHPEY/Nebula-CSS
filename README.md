@@ -10,14 +10,19 @@ This CSS Art project features a **futuristic Resources page** built completely w
 
 The layout simulates an intranet panel inside a sci-fi office, with glowing buttons, soft hover effects, and a cosmic UI feeling.
 
-> Created by **Yalda Khoshpey** as part of Task 2, this was designed to pair visually with the larger **NebulaWorks Admin Dashboard** developed by her twin sister, [Vida Khoshpey](https://github.com/VIDAKHOSHPEY22).
+> Created by **ME** as part of Task 2, this was designed to pair visually with the larger **NebulaWorks Admin Dashboard** developed by my twin sister, [Vida Khoshpey](https://github.com/VIDAKHOSHPEY22).
 
 ---
 
-## 🌐 Live Preview
+## 🚀 Live Demo
 
-📸 **Screenshot**  
-[![Futuristic Resources Page](https://github.com/YALDAKHOSHPEY/css/blob/main/assets/resource-preview.png)](https://github.com/YALDAKHOSHPEY/css)
+> 🔗 **GitHub Pages**: [View Live Demo](https://yaldakhoshpey.github.io/Nebula-CSS)  
+> 🖼️ **Preview**:
+
+<p align="center">
+  <img src="https://github.com/YALDAKHOSHPEY/Nebula-CSS/blob/0d5ed62c6473dc70f1a7062292d15d8502d7a50d/assets/resource-preview.png?raw=true" alt="Nebula CSS Preview" width="80%">
+</p>
+
 
 ---
 
