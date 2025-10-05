@@ -6,7 +6,7 @@ _This is a submission for the [Frontend Challenge: Office Edition sponsored by A
 
 ## ✨ Inspiration
 
-This CSS Art project features a **futuristic Resources page** built completely with **HTML and CSS**, with **no JavaScript** involved
+This CSS Art project features a **futuristic Resources page** built completely with **HTML and CSS**, with **no JavaScript** involved.
 
 The layout simulates an intranet panel inside a sci-fi office, with glowing buttons, soft hover effects, and a cosmic UI feeling.
 
