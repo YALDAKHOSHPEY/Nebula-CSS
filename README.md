@@ -1,4 +1,4 @@
-# 🧩 CSS Art – Futuristic Resources Page (No JS)
+# 🧩 CSS Art – Futuristic Resources Pag (No JS)
 
 _This is a submission for the [Frontend Challenge: Office Edition sponsored by Axero, CSS Art: Office Culture](https://dev.to/challenges/frontend/axero)._
 
